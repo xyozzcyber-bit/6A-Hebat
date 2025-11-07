@@ -1,2 +1,3 @@
-# 6A-Hebat
-Dibuat oleh Rakhaaaaaaaa
+# 6A Hebat
+I deploy with [Netlify](netlify.com)
+Hare [preview](https://6a-hebatt.netlify.app/)
